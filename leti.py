@@ -10,7 +10,7 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 )
-BOT_TOKEN = '8212759248:AAHmgxD6tmUUxBHg1gL7FJ-6ZzKb0hiVY2o'
+BOT_TOKEN = ''
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 LINKS = {
